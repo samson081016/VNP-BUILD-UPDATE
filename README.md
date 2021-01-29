@@ -1,1 +1,1 @@
-{ "versionCode": "1.3", "url": "https://drive.google.com/u/2/uc?id=1P8uhtHqkAOJ0ikp59-Y9EGYyL6HwiIoz&export=download", "Message": "pls update your app to the latest version\nmore futures available in new updates\VNP V1.3" }
+

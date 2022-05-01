@@ -1,1 +1,9 @@
-{ "versionCode": "25", "url": "https://drive.google.com/u/2/uc?id=15vcy096qzg1v8qPurIyh5Oove8anStV4&export=download", "Message": "pls update your app to the latest version\nmore futures available in new updates\VNP V25" }
+{
+
+"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
+"versionNotes":"
+° Fixed SSL + Payload
+° Fixed Import Export
+° Added WebView
+"
+}
